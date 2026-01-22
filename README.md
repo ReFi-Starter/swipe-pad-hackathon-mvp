@@ -1,4 +1,10 @@
-## Migration Notice\n\nThis repository is archived as the hackathon MVP. The project has moved to:\n- https://github.com/swipe-pad/swipe-pad\n- https://github.com/swipe-pad/swipe-pad-contracts\n\n# <a name="top"></a>
+## Migration Notice
+
+This repository is archived as the hackathon MVP. The project has moved to:
+- https://github.com/swipe-pad/swipe-pad
+- https://github.com/swipe-pad/swipe-pad-contracts
+
+# <a name="top"></a>
 
 <div align="center">
   <!-- Simple header design with gradients, compatible with GitHub -->
